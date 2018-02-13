@@ -1,0 +1,12 @@
+cf:
+  host: 
+  user: 
+  password: 
+  skipSslValidation: true
+
+
+logging:
+  level:
+    root: INFO
+    
+    
